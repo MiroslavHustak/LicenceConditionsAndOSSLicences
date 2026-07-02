@@ -1,5 +1,6 @@
 
-        ** Podmínky použití mobilní aplikace OdisTimetableDownloader **
+                 ** Podmínky použití mobilní aplikace OdisTimetableDownloader **
+                                (posouvací lišta je dole)
         
         1. Všeobecné informace
         1.1 Tyto Podmínky použití (dále jen „Podmínky“) upravují užívání mobilní aplikace OdisTimetableDownloader (dále jen „Aplikace“).        
