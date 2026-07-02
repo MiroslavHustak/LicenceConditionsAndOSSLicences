@@ -5,7 +5,7 @@
         1.1 Tyto Podmínky použití (dále jen „Podmínky“) upravují užívání mobilní aplikace OdisTimetableDownloader (dále jen „Aplikace“).        
         1.2 Autorem a provozovatelem Aplikace je fyzická osoba – Miroslav Husťák (dále jen „Autor“).        
         1.3 Aplikace je nezávislým softwarovým projektem a není žádným způsobem oficiálně spojena, sponzorována, schválena ani provozována společnostmi KODIS s.r.o., Dopravní podnik Ostrava a.s., Městský dopravní podnik Opava s.r.o. ani žádným jiným dopravcem. Názvy a loga ODIS, DPO či MDPO jsou duševním vlastnictvím příslušných vlastníků a v Aplikaci jsou použity výhradně za účelem informování Uživatele o původu stahovaných dat.        
-        1.4 Aplikace je poskytována zcela zdarma vybraným Uživatelům (max. 10) a není distribuována přes Google Play Store. Nikdo jiný není oprávněn tuto aplikaci používat a musí ji okamžitě odinstalovat.
+        1.4 Aplikace je poskytována zcela zdarma vybraným Uživatelům (max. 10) a není distribuována přes Google Play Store. Nikdo jiný není oprávněn tuto Aplikaci používat a musí ji okamžitě odinstalovat.
         1.5 Odkaz na tyto Podmínky se Uživateli zobrazí při prvním spuštění Aplikace. Používáním Aplikace Uživatel vyjadřuje svůj souhlas s těmito Podmínkami v plném rozsahu.
         1.6 Pokud Uživatel s těmito Podmínkami nesouhlasí, je povinen Aplikaci okamžitě odinstalovat.
         
