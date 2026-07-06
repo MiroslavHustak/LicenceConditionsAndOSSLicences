@@ -6,7 +6,7 @@
         1.1 Tyto Podmínky použití (dále jen „Podmínky“) upravují užívání mobilní aplikace OdisTimetableDownloader (dále jen „Aplikace“).        
         1.2 Autorem a provozovatelem Aplikace je fyzická osoba – Miroslav Husťák (dále jen „Autor“).        
         1.3 Aplikace je nezávislým softwarovým projektem a není žádným způsobem oficiálně spojena, sponzorována, schválena ani provozována společnostmi KODIS s.r.o., Dopravní podnik Ostrava a.s., Městský dopravní podnik Opava s.r.o. ani žádným jiným dopravcem. Názvy a loga ODIS, DPO či MDPO jsou duševním vlastnictvím příslušných vlastníků a v Aplikaci jsou použity výhradně za účelem informování Uživatele o původu stahovaných dat.        
-        1.4 Aplikace je poskytována zcela zdarma vybraným Uživatelům (max. 10) a není distribuována přes Google Play Store. Nikdo jiný není oprávněn tuto Aplikaci používat a musí ji okamžitě odinstalovat.
+        1.4 Aplikace je poskytována zcela zdarma vybraným Uživatelům a není distribuována přes Google Play Store. Nikdo jiný není oprávněn tuto Aplikaci používat a musí ji okamžitě odinstalovat.
         1.5 Odkaz na tyto Podmínky se Uživateli zobrazí při prvním spuštění Aplikace. Používáním Aplikace Uživatel vyjadřuje svůj souhlas s těmito Podmínkami v plném rozsahu.
         1.6 Pokud Uživatel s těmito Podmínkami nesouhlasí, je povinen Aplikaci okamžitě odinstalovat.
         
@@ -14,8 +14,9 @@
         2.1 Aplikace je určena pro fyzické osoby starší 18 let s plnou svéprávností.
         2.2 Pro užívání Aplikace není vyžadována registrace ani vytvoření účtu.
         2.3 Aplikace vyžaduje připojení k internetu. Pro prohlížení jízdních řádů je vyžadován PDF prohlížeč.
-        2.4 Uživatel bere na vědomí, že stahování PDF souborů spotřebovává mobilní data. Veškeré náklady spojené s připojením k internetu a přenosem dat (včetně případných poplatků za datový roaming) nese výhradně Uživatel. Uživatel rovněž bere na vědomí, že varianta stahování Kodis Canopy stahuje odkazy na JŘ z nezabezpečené http a i přes jen velmi hypotetickou možnost zneužití by neměl tuto volbu používat na veřejných sítích. 
-        2.5 Aplikaci může používat jen její autor a okruh v aplikaci vyjmenovaných uživatelů, její volné šíření je zakázáno, aby nedošlo k zatěžování příslušných serverů. 
+        2.4 Uživatel bere na vědomí, že stahování PDF souborů spotřebovává mobilní data. Veškeré náklady spojené s připojením k internetu a přenosem dat (včetně případných poplatků za datový roaming) nese výhradně Uživatel. Uživatel rovněž bere na vědomí, že varianta stahování Kodis Canopy stahuje odkazy na JŘ z nezabezpečené http. Používat tuto volbu na veřejné síti sice můžete - ochranné prvky v aplikaci zabrání stahování čehokoliv jiného, než jízdních řádů z kodis.cz, nicméně se po aktivaci těchto ochranných prvků při pokusu o zneužití nemusí stáhnout všechny JŘ. 
+        2.5 Uživatel bere na vědomí, že Aplikace omezuje počet současně stahujících Uživatelů na 10 pro každý server (Kodis, DPO a MDPO), aby nedošlo k jejich zatěžování.
+        2.5 Aplikaci může používat jen její autor a okruh vybraných Uživatelů, její volné šíření je zakázáno, aby nedošlo k zatěžování příslušných serverů. 
         
         3. Technické podmínky
         3.1 Aplikace je určena výhradně pro zařízení s operačním systémem Android 11 a vyšším.
@@ -44,7 +45,7 @@
         7.1 Autor si vyhrazuje právo kdykoliv tyto Podmínky změnit. Nová verze Podmínek bude zobrazena při příštím spuštění Aplikace.
         7.2 Autor si vyhrazuje právo kdykoliv a bez předchozího upozornění omezit, pozastavit nebo zcela ukončit vývoj, distribuci, provoz či podporu Aplikace.
         7.3 Na právní vztahy mezi Autorem a Uživatelem se vztahují právní předpisy České republiky.
-        7.4 Tyto Podmínky nabývají účinnosti dnem 02. 07. 2026.
+        7.4 Tyto Podmínky nabývají účinnosti dnem 06. 07. 2026.
 
 
             **Použité open-source knihovny**
