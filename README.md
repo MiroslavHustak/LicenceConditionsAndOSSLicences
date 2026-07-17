@@ -6,7 +6,7 @@
         1.1 Tyto Podmínky použití (dále jen „Podmínky“) upravují užívání mobilní aplikace OdisTimetableDownloader (dále jen „Aplikace“).        
         1.2 Autorem a provozovatelem Aplikace je fyzická osoba – Miroslav Husťák (dále jen „Autor“).        
         1.3 Aplikace je nezávislým softwarovým projektem a není žádným způsobem oficiálně spojena, sponzorována, schválena ani provozována společnostmi KODIS s.r.o., Dopravní podnik Ostrava a.s., Městský dopravní podnik Opava s.r.o. ani žádným jiným dopravcem. Názvy a loga ODIS, DPO či MDPO jsou duševním vlastnictvím příslušných vlastníků a v Aplikaci jsou použity výhradně za účelem informování Uživatele o původu stahovaných dat.        
-        1.4 Aplikace je poskytována zcela zdarma vybraným Uživatelům a není distribuována přes Google Play Store. Nikdo jiný není oprávněn tuto Aplikaci používat a musí ji okamžitě odinstalovat.
+        1.4 Aplikace je poskytována vybraným Uživatelům a není distribuována přes Google Play Store. Nikdo jiný není oprávněn tuto Aplikaci používat a musí ji okamžitě odinstalovat.
         1.5 Odkaz na tyto Podmínky se Uživateli zobrazí při prvním spuštění Aplikace. Používáním Aplikace Uživatel vyjadřuje svůj souhlas s těmito Podmínkami v plném rozsahu.
         1.6 Pokud Uživatel s těmito Podmínkami nesouhlasí, je povinen Aplikaci okamžitě odinstalovat.
         
@@ -27,7 +27,7 @@
         
         4. Obsah stahovaných souborů a jejich aktuálnost
         4.1 Aplikace stahuje a ukládá do zařízení Uživatele výhradně PDF soubory obsahující veřejně dostupné jízdní řády ODIS, DPO a MDPO.
-        4.2 Autor Aplikace nemá žádnou technickou možnost kontrolovat, měnit ani filtrovat obsah těchto PDF souborů před jejich stažením. Stahování probíhá automaticky z veřejných webových stránek kodis.cz, dpo.cz a mdpo.cz. V Aplikaci jsou učiněna opatření, aby se příslušné servery zbytečně nezatěžovaly - zábrana opakovaného stahování totožných souborů u aktuálních a pravidelných JŘ, prodleva 150 ms mezi http requesty a omezení současného stahování na 7, a to i přesto, že pravděpodobnost současného stahování je téměř nulová. 
+        4.2 Autor Aplikace nemá žádnou technickou možnost kontrolovat, měnit ani filtrovat obsah těchto PDF souborů před jejich stažením. Stahování probíhá automaticky z veřejných webových stránek kodis.cz, dpo.cz a mdpo.cz. V Aplikaci jsou učiněna opatření, aby se příslušné servery zbytečně nezatěžovaly - zábrana opakovaného stahování totožných souborů u aktuálních a pravidelných JŘ, prodleva 150 ms mezi http requesty, omezení celkového počtu Uživatelů a omezení současného stahování na 7, a to i přesto, že pravděpodobnost současného stahování je téměř nulová. 
         4.3 Autor nenese žádnou odpovědnost za obsah stažených PDF souborů, ani za jejich správnost. Uživatel je sám zodpovědný za kontrolu aktuálnosti stažených PDF souborů (např. v případě výluk či mimořádných změn). Autor neodpovídá za jakoukoli újmu způsobenou tím, že Uživatel cestoval podle neaktuálních nebo neplatných jízdních řádů uložených v Aplikaci.
         4.4 Uživatel bere na vědomí, že teoreticky může dojít k neoprávněné úpravě obsahu dané webové stránky (kodis.cz, dpo.cz nebo mdpo.cz) a daných PDF souborů, např. hackerským zásahem. V takovém případě Autor nenese žádnou odpovědnost za případný protiprávní nebo nevhodný obsah.
         4.5 Autor aplikace není povinen aktivně vyhledávat, kontrolovat ani filtrovat obsah stahovaných PDF souborů.
@@ -35,14 +35,14 @@
         
         5. Odpovědnost a dostupnost
         5.1 Aplikace je poskytována „tak, jak je“ („as is“) bez jakýchkoli záruk.
-        5.2 Autor nezaručuje nepřetržitou funkčnost ani dostupnost Aplikace. Funkčnost Aplikace je přímo závislá na dostupnosti a struktuře webových stránek třetích stran (kodis.cz, dpo.cz, mdpo.cz). V případě změn struktury nebo zabezpečení těchto stránek může dojít k dočasné nebo trvalé nefunkčnosti stahování, za což Autor nenese žádnou odpovědnost.
+        5.2 Autor nezaručuje nepřetržitou funkčnost ani dostupnost Aplikace. Funkčnost Aplikace je přímo závislá na dostupnosti a struktuře webových stránek třetích stran (kodis.cz, dpo.cz, mdpo.cz, somee.com). V případě změn struktury nebo zabezpečení těchto stránek může dojít k dočasné nebo trvalé nefunkčnosti stahování, za což Autor nenese žádnou odpovědnost.
         5.3 Instalací a používáním Aplikace Uživatel bere na sebe plnou zodpovědnost za veškeré případné škody, které by mohly vzniknout v důsledku instalace nebo používání Aplikace, včetně obsahu stažených PDF souborů.
         5.4 Autor nenese žádnou odpovědnost za jakoukoli újmu vzniklou v souvislosti s používáním Aplikace.
         
         6. Duševní vlastnictví
         6.1 Všechna autorská práva a práva duševního vlastnictví k Aplikaci náleží Autorovi.
         6.2 Je zakázáno Aplikaci dekompilovat, upravovat, kopírovat nebo distribuovat za úplatu bez souhlasu Autora.
-        6.3 Aplikace je zdarma. Je přísně zakázáno ji prodávat nebo zahrnovat do komerčních balíčků.
+        6.3 Je zakázáno Aplikaci prodávat nebo zahrnovat do komerčních či nekomerčních balíčků.
         
         7. Závěrečná ustanovení
         7.1 Autor si vyhrazuje právo kdykoliv tyto Podmínky změnit. Uživatel je povinen se seznámit s Podmínkami před každou instalaci či aktualizaci Aplikace.
