@@ -17,7 +17,7 @@
         2.4 Uživatel bere na vědomí, že stahování PDF souborů spotřebovává mobilní data. Veškeré náklady spojené s připojením k internetu a přenosem dat (včetně případných poplatků za datový roaming) nese výhradně Uživatel. Uživatel rovněž bere na vědomí, že varianta stahování Kodis Canopy stahuje odkazy na JŘ z nezabezpečené http. Používat tuto volbu na veřejné síti sice můžete - ochranné prvky v aplikaci zabrání stahování čehokoliv jiného, než jízdních řádů z kodis.cz, nicméně se po aktivaci těchto ochranných prvků při pokusu o zneužití nemusí stáhnout všechny JŘ. 
         2.5 Uživatel bere na vědomí, že Aplikace omezuje počet současně stahujících Uživatelů na 7 pro každý server (kodis.cz, dpo.cz a mdpo.cz), aby nedošlo k jejich zatěžování.
         2.6 Uživatel bere na vědomí, že Aplikace má vypnutou SSL validaci pro mdpo.cz.
-        2.7 Aplikaci může používat jen její Autor a okruh Autorem vybraných Uživatelů, její volné šíření je zakázáno, aby nedošlo k zatěžování příslušných serverů. 
+        2.7 Aplikaci může používat jen její Autor a okruh Autorem vybraných Uživatelů, její volné šíření není technicky umožněno, aby nedošlo k zatěžování příslušných serverů. 
         2.8 Aplikaci může používat pouze 10 Autorem vybraných Uživatelů (každá Aplikace pro Uživatele obsahuje hardcoded licence key - jedenáctému a dalšímu Uživateli je zabráněno Aplikaci používat).
         
         3. Technické podmínky
@@ -27,11 +27,11 @@
         
         4. Obsah stahovaných souborů a jejich aktuálnost
         4.1 Aplikace stahuje a ukládá do zařízení Uživatele výhradně PDF soubory obsahující veřejně dostupné jízdní řády ODIS, DPO a MDPO.
-        4.2 Autor Aplikace nemá žádnou technickou možnost kontrolovat, měnit ani filtrovat obsah těchto PDF souborů před jejich stažením. Stahování probíhá automaticky z veřejných webových stránek kodis.cz, dpo.cz a mdpo.cz. V Aplikaci jsou učiněna opatření, aby se příslušné servery zbytečně nezatěžovaly - zábrana opakovaného stahování totožných souborů u aktuálních a pravidelných JŘ, prodleva 150 ms mezi http requesty, omezení celkového počtu Uživatelů a omezení současného stahování na 7, a to i přesto, že pravděpodobnost současného stahování je téměř nulová. 
+        4.2 Autor Aplikace nemá žádnou technickou možnost kontrolovat, měnit ani filtrovat obsah těchto PDF souborů před jejich stažením. Stahování probíhá automaticky z veřejných webových stránek kodis.cz, dpo.cz a mdpo.cz. V Aplikaci jsou učiněna opatření, aby se příslušné servery zbytečně nezatěžovaly - zábrana opakovaného stahování totožných souborů u aktuálních a pravidelných JŘ, prodleva 150 ms mezi http requesty, omezení celkového počtu Uživatelů na 10 a omezení současného stahování na 7, a to i přesto, že pravděpodobnost současného stahování je téměř nulová. 
         4.3 Autor nenese žádnou odpovědnost za obsah stažených PDF souborů, ani za jejich správnost. Uživatel je sám zodpovědný za kontrolu aktuálnosti stažených PDF souborů (např. v případě výluk či mimořádných změn). Autor neodpovídá za jakoukoli újmu způsobenou tím, že Uživatel cestoval podle neaktuálních nebo neplatných jízdních řádů uložených v Aplikaci.
         4.4 Uživatel bere na vědomí, že teoreticky může dojít k neoprávněné úpravě obsahu dané webové stránky (kodis.cz, dpo.cz nebo mdpo.cz) a daných PDF souborů, např. hackerským zásahem. V takovém případě Autor nenese žádnou odpovědnost za případný protiprávní nebo nevhodný obsah.
         4.5 Autor aplikace není povinen aktivně vyhledávat, kontrolovat ani filtrovat obsah stahovaných PDF souborů.
-        4.6 V případě, že Autor obdrží oznámení o protiprávním obsahu konkrétního PDF souboru, může pouze informovat příslušné orgány (Policii ČR) a také Uživatele.
+        4.6 V případě, že Autor obdrží oznámení o protiprávním obsahu konkrétního PDF souboru, může pouze informovat příslušné orgány (Policii ČR) a také Uživatele, ovlivnit jejich obsah nemůže.
         
         5. Odpovědnost a dostupnost
         5.1 Aplikace je poskytována „tak, jak je“ („as is“) bez jakýchkoli záruk.
