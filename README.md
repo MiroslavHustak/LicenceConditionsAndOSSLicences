@@ -1,4 +1,7 @@
 
+<link rel="stylesheet" href="https://raw.githubusercontent.com/your‑user/your‑repo/main/style.css">
+
+                 
                  ** Podmínky použití mobilní aplikace OdisTimetableDownloader **
                                 (posouvací lišta je dole)
         
