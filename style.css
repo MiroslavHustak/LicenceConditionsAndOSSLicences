@@ -1,0 +1,12 @@
+/* Wrap Markdown tables and code blocks */
+.markdown-body pre,
+.markdown-body code,
+.markdown-body table {
+    white‑space: pre-wrap !important;   /* break long lines */
+    word-break: break-all !important;  /* force wrap inside very long words */
+}
+
+/* Prevent the outer container from creating a bottom‑only scrollbar */
+.markdown-body {
+    overflow-x: auto;   /* keep a thin scroll bar if needed */
+}
