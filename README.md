@@ -5,10 +5,10 @@
 <p><strong>1. Všeobecné informace</strong></p>
 <p>1.1 Tyto Podmínky použití (dále jen „Podmínky“) upravují užívání mobilní aplikace OdisTimetableDownloader (dále jen „Aplikace“).</p>
 <p>1.2 Autorem a provozovatelem Aplikace je fyzická osoba – Miroslav Husťák (dále jen „Autor“).</p>
-<p>1.3 Aplikace je nezávislým softwarovým projektem a není žádným způsobem oficiálně spojena, sponzorována, schválena ani provozována společnostmi KODIS s.r.o., Dopravní podnik Ostrava a.s., Městský dopravní podnik Opava s.r.o. ani žádným jiným dopravcem. Názvy ODIS, DPO či MDPO jsou duševním vlastnictvím příslušných vlastníků a v Aplikaci jsou použity výhradně za účelem informování Uživatele o původu stahovaných dat. Žádná loga daných firem nejsou v Aplikaci zobrazena.</p>
+<p>1.3 Aplikace je nezávislým softwarovým projektem a není žádným způsobem oficiálně spojena, sponzorována, schválena ani provozována společnostmi KODIS s.r.o., Dopravní podnik Ostrava a.s., Městský dopravní podnik Opava s.r.o. ani žádným jiným dopravcem. Názvy KODIS, ODIS, DPO či MDPO jsou duševním vlastnictvím příslušných vlastníků a v Aplikaci jsou použity výhradně za účelem informování Uživatele o původu stahovaných dat. Žádná loga daných firem nejsou v Aplikaci zobrazena.</p>
 <p>1.4 Aplikace je poskytována vybraným Uživatelům a není distribuována přes Google Play Store. Nikdo jiný není oprávněn tuto Aplikaci používat a musí ji okamžitě odinstalovat.</p>
 <p>1.5 Odkaz na tyto Podmínky se Uživateli zobrazí při prvním spuštění Aplikace. Používáním Aplikace Uživatel vyjadřuje svůj souhlas s těmito Podmínkami v plném rozsahu.</p>
-<p>1.6 Pokud Uživatel s těmito Podmínkami nesouhlasí, je povinen Aplikaci okamžitě odinstalovat.</p>
+<p>1.6 Pokud Uživatel s těmito Podmínkami nesouhlasí nebo jim plně neporozuměl, je povinen Aplikaci okamžitě odinstalovat.</p>
 
 <p><strong>2. Užívání Aplikace</strong></p>
 <p>2.1 Aplikace je určena pro fyzické osoby starší 18 let s plnou svéprávností.</p>
@@ -18,12 +18,12 @@
 <p>2.5 Uživatel bere na vědomí, že Aplikace omezuje počet současně stahujících Uživatelů na 7 pro každý server (kodis.cz, dpo.cz a mdpo.cz), aby nedošlo k jejich zatěžování.</p>
 <p>2.6 Uživatel bere na vědomí, že Aplikace má vypnutou SSL validaci pro mdpo.cz.</p>
 <p>2.7 Aplikaci může používat jen její Autor a okruh Autorem vybraných Uživatelů, její volné šíření není technicky umožněno, aby nedošlo k zatěžování příslušných serverů.</p>
-<p>2.8 Aplikaci může používat pouze 10 Autorem vybraných Uživatelů (každá Aplikace pro Uživatele obsahuje hardcoded licence key - jedenáctému a dalšímu Uživateli je zabráněno Aplikaci používat).</p>
+<p>2.8 Aplikaci může používat pouze 10 Autorem vybraných Uživatelů (každá Aplikace pro Uživatele obsahuje zabudovaný unikátní licence key - jedenáctému a dalšímu Uživateli je zabráněno Aplikaci používat).</p>
 
 <p><strong>3. Technické podmínky</strong></p>
 <p>3.1 Aplikace je určena výhradně pro zařízení s operačním systémem Android 11 a vyšším.</p>
 <p>3.2 Aplikace nesbírá ani neukládá žádné osobní údaje Uživatele, nepracuje s geolokalizací a nezasílá žádná data třetím stranám kromě technicky nutných HTTP requestů.</p>
-<p>3.3 Aplikace používá tzv. fingerprinting.</p>
+<p>3.3 Aplikace při aktivaci používá tzv. fingerprinting.</p>
 
 <p><strong>4. Obsah stahovaných souborů a jejich aktuálnost</strong></p>
 <p>4.1 Aplikace stahuje a ukládá do zařízení Uživatele výhradně PDF soubory obsahující veřejně dostupné jízdní řády ODIS, DPO a MDPO.</p>
@@ -48,7 +48,7 @@
 <p>7.1 Autor si vyhrazuje právo kdykoliv tyto Podmínky změnit. Uživatel je povinen se seznámit s Podmínkami před každou instalaci či aktualizaci Aplikace.</p>
 <p>7.2 Autor si vyhrazuje právo kdykoliv a bez předchozího upozornění omezit, pozastavit nebo zcela ukončit vývoj, distribuci, provoz či podporu Aplikace.</p>
 <p>7.3 Na právní vztahy mezi Autorem a Uživatelem se vztahují právní předpisy České republiky.</p>
-<p>7.4 Tyto Podmínky nabývají účinnosti dnem 09. 07. 2026.</p>
+<p>7.4 Tyto Podmínky nabývají účinnosti dnem 08. 08. 2026.</p>
 
 <p><strong>Použité open-source knihovny</strong></p>
 
